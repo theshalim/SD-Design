@@ -1,0 +1,45 @@
+=> Data source, Query, Execution;
+
+//Data Source
+ Ex:
+
+String[] names = {"Shalim", "Reza", "Sunny", "Shamim", "Ety", "Shuly", "Afra Jannate"}
+
+//Query
+Ex:
+
+var myQuery = from name in names
+		where name.Contains('a')
+		Select name;
+
+//Execution
+ex: 
+foreach(var name in myQuery)
+Console.Write(name);
+
+
+...............................
+
+
+//data Source
+
+IList<string> stringList = new IList<string>(){
+"Habib all Hasan",
+"Mehedi all Hasan",
+"Sakib all Hasan",
+"Foysal Mahmud"
+}; 
+
+
+var Result=from s in stringList
+		Where s.Contains("Hasan")
+		select s;
+
+foreach( var s in Result)
+{
+Console.WriteLine(s);
+}
+
+
+
+

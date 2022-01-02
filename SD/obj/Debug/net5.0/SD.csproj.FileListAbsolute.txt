@@ -1,0 +1,874 @@
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\appsettings.Development.json
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\appsettings.json
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\SD.exe
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\SD.deps.json
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\SD.runtimeconfig.json
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\SD.runtimeconfig.dev.json
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\SD.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\ref\SD.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\SD.pdb
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\mscorlib.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\netstandard.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.AppContext.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Buffers.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Collections.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.ComponentModel.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Configuration.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Console.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Core.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Data.Common.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Data.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Drawing.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Globalization.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.IO.Compression.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.IO.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Linq.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Memory.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Net.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Net.Http.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Net.Mail.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Net.Ping.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Net.Requests.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Net.Security.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Numerics.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.ObjectModel.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Reflection.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Runtime.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Security.Claims.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Security.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Security.Principal.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Text.Json.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Threading.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Transactions.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.ValueTuple.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Web.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Windows.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Xml.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\refs\WindowsBase.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\SD.Views.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\SD.Views.pdb
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\Humanizer.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\Newtonsoft.Json.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\System.Runtime.Caching.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+J:\DotNet Projects\projects\SD\obj\Debug\net5.0\SD.GeneratedMSBuildEditorConfig.editorconfig
+J:\DotNet Projects\projects\SD\obj\Debug\net5.0\SD.AssemblyInfoInputs.cache
+J:\DotNet Projects\projects\SD\obj\Debug\net5.0\SD.AssemblyInfo.cs
+J:\DotNet Projects\projects\SD\obj\Debug\net5.0\SD.csproj.CoreCompileInputs.cache
+J:\DotNet Projects\projects\SD\obj\Debug\net5.0\SD.MvcApplicationPartsAssemblyInfo.cs
+J:\DotNet Projects\projects\SD\obj\Debug\net5.0\SD.MvcApplicationPartsAssemblyInfo.cache
+J:\DotNet Projects\projects\SD\obj\Debug\net5.0\SD.RazorAssemblyInfo.cache
+J:\DotNet Projects\projects\SD\obj\Debug\net5.0\SD.RazorAssemblyInfo.cs
+J:\DotNet Projects\projects\SD\obj\Debug\net5.0\staticwebassets\SD.StaticWebAssets.Manifest.cache
+J:\DotNet Projects\projects\SD\obj\Debug\net5.0\staticwebassets\SD.StaticWebAssets.xml
+J:\DotNet Projects\projects\SD\obj\Debug\net5.0\scopedcss\bundle\SD.styles.css
+J:\DotNet Projects\projects\SD\obj\Debug\net5.0\SD.TagHelpers.input.cache
+J:\DotNet Projects\projects\SD\obj\Debug\net5.0\SD.TagHelpers.output.cache
+J:\DotNet Projects\projects\SD\obj\Debug\net5.0\SD.RazorCoreGenerate.cache
+J:\DotNet Projects\projects\SD\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+J:\DotNet Projects\projects\SD\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+J:\DotNet Projects\projects\SD\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+J:\DotNet Projects\projects\SD\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+J:\DotNet Projects\projects\SD\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+J:\DotNet Projects\projects\SD\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+J:\DotNet Projects\projects\SD\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+J:\DotNet Projects\projects\SD\obj\Debug\net5.0\SD.RazorTargetAssemblyInfo.cache
+J:\DotNet Projects\projects\SD\obj\Debug\net5.0\SD.RazorTargetAssemblyInfo.cs
+J:\DotNet Projects\projects\SD\obj\Debug\net5.0\SD.Views.pdb
+J:\DotNet Projects\projects\SD\obj\Debug\net5.0\SD.csproj.CopyComplete
+J:\DotNet Projects\projects\SD\obj\Debug\net5.0\SD.dll
+J:\DotNet Projects\projects\SD\obj\Debug\net5.0\ref\SD.dll
+J:\DotNet Projects\projects\SD\obj\Debug\net5.0\SD.pdb
+J:\DotNet Projects\projects\SD\obj\Debug\net5.0\SD.genruntimeconfig.cache
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\System.Composition.Convention.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\System.Composition.Hosting.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\System.Composition.Runtime.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\System.Composition.TypedParts.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+J:\DotNet Projects\projects\SD\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+J:\DotNet Projects\projects\SD\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+J:\DotNet Projects\projects\SD\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+J:\DotNet Projects\projects\SD\obj\Debug\net5.0\Razor\Views\Client\Index.cshtml.g.cs
+J:\DotNet Projects\projects\SD\obj\Debug\net5.0\Razor\Views\Client\Create.cshtml.g.cs
+J:\DotNet Projects\projects\SD\obj\Debug\net5.0\SD.csproj.AssemblyReference.cache
+J:\DotNet Projects\projects\SD\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+J:\DotNet Projects\projects\SD\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\appsettings.json
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\SD.exe
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\SD.deps.json
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\SD.runtimeconfig.json
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\SD.runtimeconfig.dev.json
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\SD.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\ref\SD.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\SD.pdb
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\mscorlib.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\netstandard.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.AppContext.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Buffers.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Collections.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.ComponentModel.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Configuration.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Console.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Core.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Data.Common.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Data.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Drawing.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Globalization.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.IO.Compression.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.IO.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Linq.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Memory.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Net.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Net.Http.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Net.Mail.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Net.Ping.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Net.Requests.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Net.Security.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Numerics.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.ObjectModel.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Reflection.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Runtime.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Security.Claims.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Security.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Security.Principal.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Text.Json.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Threading.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Transactions.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.ValueTuple.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Web.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Windows.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Xml.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\refs\WindowsBase.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\SD.Views.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\SD.Views.pdb
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\Humanizer.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\shali\OneDrive\Desktop\SD\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shali\OneDrive\Desktop\SD\obj\Debug\net5.0\SD.csproj.AssemblyReference.cache
+C:\Users\shali\OneDrive\Desktop\SD\obj\Debug\net5.0\SD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shali\OneDrive\Desktop\SD\obj\Debug\net5.0\SD.AssemblyInfoInputs.cache
+C:\Users\shali\OneDrive\Desktop\SD\obj\Debug\net5.0\SD.AssemblyInfo.cs
+C:\Users\shali\OneDrive\Desktop\SD\obj\Debug\net5.0\SD.csproj.CoreCompileInputs.cache
+C:\Users\shali\OneDrive\Desktop\SD\obj\Debug\net5.0\SD.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shali\OneDrive\Desktop\SD\obj\Debug\net5.0\SD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shali\OneDrive\Desktop\SD\obj\Debug\net5.0\SD.RazorAssemblyInfo.cache
+C:\Users\shali\OneDrive\Desktop\SD\obj\Debug\net5.0\SD.RazorAssemblyInfo.cs
+C:\Users\shali\OneDrive\Desktop\SD\obj\Debug\net5.0\staticwebassets\SD.StaticWebAssets.Manifest.cache
+C:\Users\shali\OneDrive\Desktop\SD\obj\Debug\net5.0\staticwebassets\SD.StaticWebAssets.xml
+C:\Users\shali\OneDrive\Desktop\SD\obj\Debug\net5.0\scopedcss\bundle\SD.styles.css
+C:\Users\shali\OneDrive\Desktop\SD\obj\Debug\net5.0\SD.TagHelpers.input.cache
+C:\Users\shali\OneDrive\Desktop\SD\obj\Debug\net5.0\SD.TagHelpers.output.cache
+C:\Users\shali\OneDrive\Desktop\SD\obj\Debug\net5.0\SD.RazorCoreGenerate.cache
+C:\Users\shali\OneDrive\Desktop\SD\obj\Debug\net5.0\Razor\Views\Client\Create.cshtml.g.cs
+C:\Users\shali\OneDrive\Desktop\SD\obj\Debug\net5.0\Razor\Views\Client\Index.cshtml.g.cs
+C:\Users\shali\OneDrive\Desktop\SD\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Users\shali\OneDrive\Desktop\SD\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\shali\OneDrive\Desktop\SD\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\shali\OneDrive\Desktop\SD\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\shali\OneDrive\Desktop\SD\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\shali\OneDrive\Desktop\SD\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\shali\OneDrive\Desktop\SD\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\shali\OneDrive\Desktop\SD\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\shali\OneDrive\Desktop\SD\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\shali\OneDrive\Desktop\SD\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\shali\OneDrive\Desktop\SD\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\shali\OneDrive\Desktop\SD\obj\Debug\net5.0\SD.RazorTargetAssemblyInfo.cache
+C:\Users\shali\OneDrive\Desktop\SD\obj\Debug\net5.0\SD.RazorTargetAssemblyInfo.cs
+C:\Users\shali\OneDrive\Desktop\SD\obj\Debug\net5.0\SD.Views.pdb
+C:\Users\shali\OneDrive\Desktop\SD\obj\Debug\net5.0\SD.csproj.CopyComplete
+C:\Users\shali\OneDrive\Desktop\SD\obj\Debug\net5.0\SD.dll
+C:\Users\shali\OneDrive\Desktop\SD\obj\Debug\net5.0\ref\SD.dll
+C:\Users\shali\OneDrive\Desktop\SD\obj\Debug\net5.0\SD.pdb
+C:\Users\shali\OneDrive\Desktop\SD\obj\Debug\net5.0\SD.genruntimeconfig.cache

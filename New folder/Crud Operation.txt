@@ -1,0 +1,51 @@
+01. Model Create for table.
+	 public virtual List<VehicleModel> VehicleModels { get; set; } = new List<VehicleModel>();
+02.AppSetting : Connection String;
+03. NuGet Manager Microsoft.EntityFramework : Core, Design, SqlServer, Tools etc.
+04.New Folder for Data and create (projectname)DbContext
+	public VidlyDbContext(DbContextOptions<VidlyDbContext> options) : base(options)
+	public DbSet<StaffModel> StaffModels { get; set; }
+05.Startup:
+	services.AddDbContext<VidlyDbContext>(option => option.UseSqlServer(Configuration.GetConnectionString("DbConn"))); 
+06.Controller: Create a Controller:-then private readonly variable declear . 
+	Ex:   private readonly VidlyDbContext _context;
+	      public VidlyController(VidlyDbContext context){
+		_context=context;
+		}
+ public IActionResult Index()
+        {
+		List<StaffModel>staffModels;
+		staffModels = _context.StaffModels.ToList();
+
+            return View(staffModels );
+        }
+
+ index:-AddView,Razor Page, List etc.
+*******[For Test] Layout :- asp-controller="Home" asp-action="Index">Home....
+07. add-migration "createDb", update-database, drop-database etc.
+08. SqlServer Open and view your Table with Database-:) [then run your Project and see more problem]
+09. Back to controller: 
+		 [HttpGet]
+        public IActionResult Create()
+        {
+            StaffModel staffModel = new StaffModel(); //Object!!
+            staffModel.VehicleModel.Add(new VehicleModel() { UserName=1});
+            staffModel.VehicleModel.Add(new VehicleModel() { UserName=2});
+            staffModel.VehicleModel.Add(new VehicleModel() { UserName=3});
+
+            return View();
+        }
+		[HttpPost]
+        public IActionResult Create(StaffModel staffModel) //create add view
+        {
+            _context.Add(staffModel);
+            _context.SaveChanges();
+            return RedirectToAction("Index");
+        }
+
+**...................................................Property for Photo............................................................**
+ public string PhotoUrl { get; set; }
+        [Required(ErrorMessage = "Required*")]
+        [Display(Name = "Profile Photo")]
+        [NotMapped]
+        public IFormFile ProfilePhoto { get; set; }
